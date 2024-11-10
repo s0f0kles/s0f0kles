@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Мои навыки:
-<img src=" width="10%">
+<img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="10%">
 <!--
 **s0f0kles/s0f0kles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
